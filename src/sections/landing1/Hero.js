@@ -28,10 +28,10 @@ const Hero = () => {
                   color="heading"
                   mb="40px"
                 >
-                  ILLUSTRATOR, GRAPHIC DESIGNER, TRAVELER
+                  WRITER, FASHIONISTA, MOM
                 </Text>
                 <Title variant="hero">
-                  I design digital crafts for clients.
+                  I'm a writer looking for the next interesting story.
                 </Title>
 
                 <Box mt="52px">
